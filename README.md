@@ -17,13 +17,6 @@
 - mobx-state-tree
 - ChakraUI
 
-**Stay tuned:**
-- Please, upvote a post on [StackApps](https://stackapps.com/questions/9223)
-- https://www.twitch.tv/jott1
-
-**Interesting to test this app?**
-- Ping me here [maxdiachenko.com](https://maxdiachenko.com)
-
 ## Some screens (11 May, 2022)
 
 <img src="assets/screenshots/app-icon.png" width="274" />
